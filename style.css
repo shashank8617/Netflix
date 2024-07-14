@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+.header, .footer {
+    background-color: #343a40;
+    color: white;
+}
+
+.header h1, .footer p {
+    margin: 0;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.section h2 {
+    margin-bottom: 30px;
+}
+
+.project {
+    margin-bottom: 30px;
+}
+
+.social-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+.list-inline-item {
+    margin-right: 15px;
+}
